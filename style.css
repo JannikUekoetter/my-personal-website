@@ -23,6 +23,17 @@ h1 {
   border-radius: 10%;
 }
 
+.pictures {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+}
+
 .container {
   display: flex;
   height: 300px;
